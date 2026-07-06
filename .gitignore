@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+combined_output_v2.nc
+combined_output.nc
+params.csv
